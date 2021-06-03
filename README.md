@@ -1,2 +1,2 @@
-# git_demo
+# gitrepository_demo
 My first ever Git repository
