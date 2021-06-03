@@ -11,7 +11,7 @@ def sub(x,y):
 
 #Multiplication Header
 def mul(x,y):
-    pass
+    return x*y
 
 #Division Header
 def div(x,y):
