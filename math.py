@@ -4,7 +4,10 @@ def add(x,y):
 
 #Subtraction Header
 def sub(x,y):
-    pass
+    if y>x:
+        return  error
+    else:
+        return x-y
 
 #Multiplication Header
 def mul(x,y):
