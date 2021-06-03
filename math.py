@@ -15,4 +15,4 @@ def mul(x,y):
 
 #Division Header
 def div(x,y):
-    pass
+    return x/y
